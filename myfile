@@ -1,0 +1,7 @@
+list of commands
+	git init
+	git status
+	git add .
+	git commit -m "testing"
+	git remote add origin URL
+	git push origin master
